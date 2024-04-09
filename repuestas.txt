@@ -1,0 +1,4 @@
+¿Puede ver el archivo tp2_1_2.c?
+No puede verse el archivo.
+¿Por qué?
+Porque fue creado y commiteado en la branch Opcion_2, por eso no puede verse en main
